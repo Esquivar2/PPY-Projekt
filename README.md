@@ -4,11 +4,11 @@ s26294
 # PPY-Projekt Tic-Tac-Toe
 Opis:
 
-Program Tic-Tac-Toe to gra konsolowa umożliwiająca rozgrywkę pomiędzy dwoma graczami lub graczem i komputerem. Jednakże posiada ona dodatkową regułę: na planszy każdy zawodnik może mieć maksymalnie 3 symbole, a więc przy każdym kolejnym ruchu w tym samym momencie zostanie usunięty z planszy najwcześniej wykonany ruch. W turze, w której jest usuwany symbol, nie można wykonać ruchu w jego miejsce. Pole jednak staję się już dostępne od kolejnej tury przeciwnika.
+Program Tic-Tac-Toe to gra konsolowa w kółko i krzyżyk, umożliwiająca rozgrywkę pomiędzy dwoma graczami lub graczem i komputerem. Jednakże posiada ona dodatkową regułę: na planszy każdy zawodnik może mieć maksymalnie 3 symbole, a więc przy każdym kolejnym ruchu w tym samym momencie zostanie usunięty z planszy najwcześniej wykonany ruch. W turze, w której jest usuwany symbol, nie można wykonać ruchu w jego miejsce. Pole jednak staję się już dostępne od kolejnej tury przeciwnika.
 
 Wymagania:
 
-- tryb gry: gracz vs komputer oraz gracz vs gracz,
+- tryb gry: gracz vs komputer (możliwy wybór kto zaczyna rozgrywkę) oraz gracz vs gracz,
 - co każdy ruch pokazywana jest plansza z obecną sytuacją na polu,
 - podczas każdego ruch, gracz widzi, poprzez podkreślenie, który symbol zniknie po wykonaniu swojego ruchu,
 - gracz wygrywa poprzez ułożenie swoich symboli w jednym rzędzie, kolumnie lub na przekątnej,
