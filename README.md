@@ -1,3 +1,6 @@
+Robert Mikoś
+s26294
+
 # PPY-Projekt Tic-Tac-Toe
 Opis:
 
